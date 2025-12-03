@@ -8,7 +8,7 @@ Copy this file and save it in this folder with your team name. Example: `teams/p
 - Branch name: `team/Z-team`
 - Members:
   - Alireza Jorati — 610003023
-  - Parmis Amirian — Student ID
+  - Parmis Amirian — 610402122
   - Zahra Javidi — 610003001
 
 ## Notes (Optional)
